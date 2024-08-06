@@ -2,8 +2,8 @@
 About Me :
 https://so-nita.github.io/portfolio-react/
 
-#### Github Stats
-![Sonita's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=dlarroder&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
+#### GitHub Status
+![So-Nita's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=so-nita&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
 
 #### Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -19,4 +19,5 @@ https://so-nita.github.io/portfolio-react/
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-![Sonita's Profile views](https://komarev.com/ghpvc/?username=dlarroder&color=lightgrey)
+![So-Nita's Profile views](https://komarev.com/ghpvc/?username=so-nita&color=lightgrey)
+
