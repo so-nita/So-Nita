@@ -19,5 +19,5 @@ https://so-nita.github.io/portfolio-react/
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%234B6ABF.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![So-Nita's Profile views](https://komarev.com/ghpvc/?username=so-nita&color=lightgrey)
+![So-Nita's Profile views](https://komarev.com/ghpvc/?username=so-nita&color=blue)
 
