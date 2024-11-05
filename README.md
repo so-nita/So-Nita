@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2196F3&random=false&width=435&lines=Hi+there%F0%9F%91%8B)](https://git.io/typing-svg)<br>
 ### About Me : https://sonita-borin.vercel.app/
-### Medium : [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@sonita.borin)
+### Medium : [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@sonita.borin) https://medium.com/@sonita.borin
 
 #### GitHub Status
 ![So-Nita's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=so-nita&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
