@@ -15,14 +15,19 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237D5AB4.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![VueJS](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.Net Core](https://img.shields.io/badge/ASP.NET%20Core-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.Net Framework](https://img.shields.io/badge/ASP.NET%20Framework-%234B3E5B.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%234B6ABF.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ![So-Nita's Profile views](https://komarev.com/ghpvc/?username=so-nita&color=blue)
 
