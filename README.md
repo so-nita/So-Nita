@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi%2C+There+👋;Frontend+%26+Full-Stack+Developer;Vue+%7C+React+%7C+Next+%7C+Spring+Boot)](https://git.io/typing-svg)
 
-🌐 **Portfolio** → [sonita.xyz](https://sonita.xyz)
+🌐 **Portfolio** → [sonita.site](https://sonita.site)
 
 </div>
 
@@ -20,7 +20,7 @@ Probably napping right now 💤🌙
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@sonita.borin)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sonitaborin)
-[![Portfolio](https://img.shields.io/badge/Website-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sonita.xyz)
+[![Portfolio](https://img.shields.io/badge/Website-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sonita.site)
 
 </div>
 
